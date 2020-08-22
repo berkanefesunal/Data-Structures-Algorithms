@@ -13,3 +13,4 @@ studentID['Name2']='PHD computer science student.'
 del studentID["Computer Science Student."]
 
 # WE USE DICTIONARIES AS AN EXAMPLE OF HASH TABLES.
+#WE USE ALSO SETS AS AN EXAMPLE OF HASH TABLES
