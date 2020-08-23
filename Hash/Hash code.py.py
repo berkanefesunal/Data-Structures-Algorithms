@@ -9,5 +9,5 @@ studentID['Name']='Computer Science Student'
 studentID['Name2']='PHD computer science student.'
 
 #delete
-
 del studentID["Computer Science Student."]
+#dictionaries and sets are example of using hashes in python.
